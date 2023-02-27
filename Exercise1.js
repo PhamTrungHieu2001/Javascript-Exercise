@@ -2,7 +2,9 @@
 
 Example: 	array1 = [1,2,3,4,5,6];
 			array2 = [3,4,8,9,12];
-			=> [3,4] */
+			=> [3,4] 
+*/
+/** Program */
 const array1 = [1, 2, 3, 4, 5, 6];
 const array2 = [3, 4, 8, 9, 12];
 const duplicates = [];
